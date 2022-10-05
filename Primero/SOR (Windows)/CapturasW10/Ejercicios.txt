@@ -1,0 +1,11 @@
+- Diferencia entre BIOS y UEFI.
+
+-Use bridge Networking (Explicar que es)
+
+-¿qué es NAT? 
+
+-¿qué es IDE?
+
+-¿qué es SCSI?
+
+-¿qué es SATA?
